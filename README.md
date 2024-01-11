@@ -8,7 +8,7 @@ If you wish to browse through user notes for all documentation pages that accept
 comments, head to the [**Discussions**](https://github.com/godotengine/godot-docs-user-notes/discussions)
 tab of this repository.
 
-> **Note**
+> [!NOTE]
 >
 > The same data source is used for documentation pages in real-time, which means
 > that any comments you leave on this repository's Discussions tab will be reflected
